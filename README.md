@@ -1,5 +1,4 @@
-
-# 🔌 Laboratorio ETL: Análisis del Sistema Energético en España
+# 🔌 Laboratorio 5.2 ETL: Análisis del Sistema Energético en España
 
 ## 📖 Descripción
 Este laboratorio forma parte de una serie de prácticas enfocadas en el análisis de datos del sistema energético en España. En esta lección, desarrollamos el proceso de *Extracción, Transformación y Carga* (ETL) para limpiar y estructurar datos de consumo y generación eléctrica a nivel provincial, junto con información demográfica y económica. El objetivo es explorar las relaciones entre la demanda, el consumo y la generación eléctrica con factores como la población y el PIB a lo largo del tiempo.
